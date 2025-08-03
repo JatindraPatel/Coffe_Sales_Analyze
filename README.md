@@ -2,11 +2,11 @@
 
 This project presents an interactive sales analysis dashboard for a fictional coffee shop chain. The dashboard visualizes key business metrics including:
 
-💰 Total Sales: ₹6,98,812.33 
+💰 Total Sales: $6,98,812.33 
 
 👣 Total Footfall: 1,49,116 customers
 
-🧾 Avg Bill per Person: ₹4.69
+🧾 Avg Bill per Person: $4.69
 
 ☕ Avg Orders per Person: 1.44
 
