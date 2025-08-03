@@ -1,4 +1,4 @@
-📊 Coffee Shop Sales Dashboard (Power BI / Excel)
+📊 Coffee Shop Sales Dashboard (Excel)
 
 This project presents an interactive sales analysis dashboard for a fictional coffee shop chain. The dashboard visualizes key business metrics including:
 
